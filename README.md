@@ -1,10 +1,12 @@
 # FinalProject-Spring-Boot-WebApp 
 # Spring-Boot-Application---Instrument-Selection-for-Students
 
-this is my final project for the backend developemt bootcamp for Promineo Tech.
+This is my final project for the Promineo Tech backend development bootcamp.
 
-I demonstrated how to create a simple database with one-to-one, one-to-many and many-to-many realtionships and created a Web Application.
+I created a web application with various database relationships, including one-to-one, one-to-many, and many-to-many. 
 
-I used JPA for DB mapping in Java apps. Swagger for API design and documentation. MySQL Workbench for DB modeling. Spring Boot & Eclipse for development. Integrated for efficient API development with Java, Spring Boot, JPA, Swagger, and MySQL.
+I utilized JPA for Java app DB mapping, Swagger for API design and documentation, and MySQL Workbench for DB modeling. 
 
-Spring Boot for Eclipse IDE running application in port 8080. http://localhost:8080/swagger-ui/index.html#/
+Development was done using Spring Boot in Eclipse IDE for efficient API development, with the application running on port 8080. 
+
+Clone and isit http://localhost:8080/swagger-ui/index.html#/ to explore the APIs.
